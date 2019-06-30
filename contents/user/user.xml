@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<content>
+    <sys_name>user</sys_name>
+    <name>User Content</name>
+    <description>Отвечает за регистрацию и авторизацию пользователей</description>
+</content>
